@@ -37,7 +37,7 @@ Average lifestyle in Latin America and the Caribbean for those born in 2023, by 
 
 <!-- List of work packages ordered sequentially, each pointing to an issue with more details. -->
 
-1. [Collection][[i1]
+1. [Collection][i1]
 2. [Cleaning][i2]
 
 [i1]: https://github.com/bhanu613/made-template/issues/1
